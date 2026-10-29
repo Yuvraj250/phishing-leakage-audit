@@ -1,0 +1,18 @@
+Feature,|SHAP| A,Rel% A,|SHAP| B,Rel% B
+LetterRatioInURL,3.9224,29.29,3.8776,29.21
+DomainLength,2.2496,16.8,2.3301,17.55
+SpacialCharRatioInURL,2.091,15.61,2.0648,15.56
+NoOfOtherSpecialCharsInURL,1.3974,10.43,1.4341,10.8
+URLLength,1.3402,10.01,1.2174,9.17
+DegitRatioInURL,1.0049,7.5,0.9402,7.08
+NoOfDegitsInURL,0.9028,6.74,0.8532,6.43
+NoOfSubDomain,0.2228,1.66,0.2108,1.59
+NoOfLettersInURL,0.1225,0.91,0.1962,1.48
+TLDLength,0.1398,1.04,0.1488,1.12
+NoOfObfuscatedChar,0.0,0.0,0.0,0.0
+HasObfuscation,0.0,0.0,0.0,0.0
+IsDomainIP,0.0,0.0,0.0,0.0
+ObfuscationRatio,0.0,0.0,0.0,0.0
+NoOfEqualsInURL,0.0,0.0,0.0,0.0
+NoOfAmpersandInURL,0.0,0.0,0.0,0.0
+NoOfQMarkInURL,0.0,0.0,0.0,0.0
